@@ -4,7 +4,7 @@
 
 ### Descriptions
 
-This project aims to specifically show in a practical way the differences between its main execution times and performance.
+This project aims to specifically show in a practical way the differences between its main execution times and performance and cold start.
 
 ## How to build project
 
