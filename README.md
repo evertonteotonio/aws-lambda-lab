@@ -4,7 +4,7 @@
 
 ### Descriptions
 
-This project aims to specifically show in a practical way the differences between its main execution times.
+This project aims to specifically show in a practical way the differences between its main execution times and performance.
 
 ## How to build project
 
@@ -17,8 +17,6 @@ To create the labs you will need to have the following CLI installed.
 - AWS CLI
 - AWS account
 - run `build.sh` from the root
-
-
 
 # aws-lambda-lab
 
@@ -42,4 +40,3 @@ To create the labs, you will need the following CLI tools installed.
 ### Build Instructions
 
 1. Clone this repository to your local machine.
-
